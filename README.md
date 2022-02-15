@@ -2,7 +2,7 @@
 
 
 
-# Proyecto_visualizaciónn_de_datos
+# Proyecto de visualizaciónn de datos.
 
 La visualización de datos es una actividad de gran trascendencia para al analista de datos. No basta con hacer buenos análisis; es necesario comunicar tus resultados de una mara simple y  atractiva. En este miniproyecto utilizarás las distintas herramientas que has aprendido a utilizar, con la finalidad de visualizar  y reportar los datos acerca de la felicidad acerac del mundo que provienen del "Wordl happiness report 2021" en forma de infografía.. 
 
